@@ -1,0 +1,34 @@
+.admin.home .heading {
+    margin-top: 0;
+    border: 0;
+}
+
+.admin.home .primary.header.module {
+    margin: 1em auto;
+}
+
+.admin.home .navigation.actions > * {
+    padding-left: 0 !important;
+}
+
+.admin.home .navigation.actions {
+    width: 60%;
+    padding-right: 0;
+    text-align: right;
+}
+
+.admin.home .navigation.actions select {
+    width: 100%;
+}
+
+.admin.home .navigation.actions li {
+    float: right;
+}
+
+.admin.home .navigation.actions input[type=submit] {
+    float: right;
+}
+
+.admin.home a.rss {
+    margin-top: -.3em;
+}
