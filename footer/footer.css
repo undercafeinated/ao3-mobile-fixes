@@ -1,0 +1,21 @@
+#footer,
+#footer * {
+    box-sizing: border-box;
+}
+
+#footer ul {
+    width: 100%;
+}
+
+#footer .module {
+    max-width: 25%;
+    padding: 0 1%;
+}
+
+#footer .heading {
+    height: 2.3em;
+}
+
+#footer a {
+    line-height: 1.6;
+}
