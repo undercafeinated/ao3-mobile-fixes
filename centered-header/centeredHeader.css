@@ -1,0 +1,25 @@
+#header {
+    display: inline-block;
+    text-align: center;
+}
+
+#header * {
+    display: inline-block;
+    text-align: center;
+}
+
+#header .heading {
+    float: none;
+}
+
+#header #greeting {
+    margin: 0;
+    float: none;
+}
+
+#header .primary,
+#header .search,
+#header .primary .dropdown {
+    display: inline-block;
+    float: none;
+}
