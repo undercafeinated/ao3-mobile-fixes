@@ -23,3 +23,7 @@
     display: inline-block;
     float: none;
 }
+
+#header .menu li a {
+    text-align: left !important;
+}
