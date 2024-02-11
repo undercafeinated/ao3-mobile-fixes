@@ -1,4 +1,4 @@
-.admin.home .heading {
+.admin.home .primary .heading {
     margin-top: 0;
     border: 0;
 }
@@ -7,25 +7,25 @@
     margin: 1em auto;
 }
 
-.admin.home .navigation.actions > * {
+.admin.home .primary .navigation.actions > * {
     padding-left: 0 !important;
 }
 
-.admin.home .navigation.actions {
+.admin.home .primary .navigation.actions {
     width: 60%;
     padding-right: 0;
     text-align: right;
 }
 
-.admin.home .navigation.actions select {
+.admin.home .primary .navigation.actions select {
     width: 100%;
 }
 
-.admin.home .navigation.actions li {
+.admin.home .primary .navigation.actions li {
     float: right;
 }
 
-.admin.home .navigation.actions input[type=submit] {
+.admin.home .primary .navigation.actions input[type=submit] {
     float: right;
 }
 

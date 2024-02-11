@@ -1,15 +1,15 @@
-.user.home .heading {
+.user.home .primary .heading {
     margin-top: 0;
     border: 0;
 }
 
-.user.home .navigation.actions { 
+.user.home .primary .navigation.actions { 
     width: 60%;
     padding-right: 0;
     text-align: right;
 }
 
-.user.home .navigation.actions > * {
+.user.home .primary .navigation.actions > * {
     padding-left: 0;
 }
 
